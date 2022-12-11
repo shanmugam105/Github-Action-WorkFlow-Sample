@@ -1,0 +1,6 @@
+framework module Pods_Github_Action_WorkFlow_Sample {
+  umbrella header "Pods-Github-Action-WorkFlow-Sample-umbrella.h"
+
+  export *
+  module * { export * }
+}
