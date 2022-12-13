@@ -8,7 +8,7 @@
 import UIKit
 import SkyFloatingLabelTextField
 
-class HomeViewController: UIViewController {
+class HomeViewControlle: UIViewController {
     let viewModel: HomeViewModel = .init()
     var myTextField: SkyFloatingLabelTextField!
     override func viewDidLoad() {
